@@ -1,0 +1,17 @@
+{
+    "name": "kdamthmor-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Tep Sovichet"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kdamthmor-bower.git"
+    },
+    "description": "Kdam Thmor font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
